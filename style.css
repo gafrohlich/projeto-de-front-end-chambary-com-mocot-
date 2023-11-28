@@ -1,0 +1,52 @@
+body {
+  font-family: '', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #22ADF2; /* Fundo claro */
+}
+
+header {
+  text-align: center;
+  padding: 2em;
+  background-color: #4E3A87; /* Laranja escuro */
+  color: white ;
+}
+
+.about-us, .our-performances, .join-us {
+  margin: 30px;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.container {
+  padding: 15px;
+}
+
+button {
+  background-color: #ff8c00; /* Laranja escuro */
+  color: #fff;
+  padding: 0.5em 1em;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ff4500; /* Laranja vermelho */
+}
+
+footer {
+  text-align: center;
+  padding: 1em;
+  background-color: #ff8c00; /* Laranja escuro */
+  color: #fff;
+  position: static;
+  bottom: 0;
+  width: 100%;
+}
