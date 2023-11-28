@@ -1,0 +1,9 @@
+function startGame() {
+  alert('Prepare-se para um show de malabarismo! Jogo em breve...');
+  // Adicione a lógica do seu jogo aqui
+}
+
+function submitForm() {
+  alert('Obrigado por entrar em contato! Responderemos em breve.');
+  // Adicione a lógica de envio do formulário aqui
+}
